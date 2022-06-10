@@ -21,7 +21,7 @@
 -Also don't forget to follow us 
 
 ## Official WhatsApp Group
-[WhatsApp Group](https://chat.whatsapp.com/D1M6zr0tF7v2N30HfEJPdp)
+-[Sapphire Inc.](https://chat.whatsapp.com/D1M6zr0tF7v2N30HfEJPdp)
 
 ## <!-- Typing SVG -->
 <p align="center">
