@@ -16,7 +16,7 @@
 
 - 🏷We are looking foward to collaborate with anyone on WhatsApp bots.
 
-- 🔝We are accepting new developers members who wish to join us.
+- 🔝We are accepting new developers & members who wish to join us.
 
 - 📪Also don't forget to follow us [@Sapphire Inc.](https://github.com/Sapphire2022)
 
