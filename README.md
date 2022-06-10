@@ -12,7 +12,7 @@
 
 - This is a WhatsApp bots organization.
 
-- We are just a team of students who loves coding bots.
+- We are just a team of students who love coding bots.
 
 - We are looking foward to collaborate with anyone on WhatsApp bots.
 
