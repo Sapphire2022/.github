@@ -7,3 +7,5 @@
         />
     </a>
 </p>
+<img align="center" height="auto" src="https://avatars.githubusercontent.com/u/100336546?s=400&u=e38486a5ae8f7024fc6b4f71e595e9b4780c5c28&v=4"/>
+</p>
