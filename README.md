@@ -18,7 +18,7 @@
 
 - 🔝We are accepting new developers members who wish to join us.
 
-- 📪Also don't forget to follow us [@Sapphire Inc.](https:github.com/Sapphire2022)
+- 📪Also don't forget to follow us [@Sapphire Inc.](https://github.com/Sapphire2022)
 
 ## 🔰 Official WhatsApp Group
 - [Sapphire Inc.](https://chat.whatsapp.com/D1M6zr0tF7v2N30HfEJPdp)
