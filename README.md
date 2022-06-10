@@ -10,18 +10,18 @@
 <img align="center" height="auto" src="https://www.infrastructurenews.co.nz/wp-content/uploads/2021/10/Ciphire-Technology-Explained-1024x574.jpeg"/>
 </p>
 
--This is a WhatsApp bots organization.
+- This is a WhatsApp bots organization.
 
--We are just a team of students who loves coding bots.
+- We are just a team of students who loves coding bots.
 
--We are looking foward to collaborate with anyone on WhatsApp bots.
+- We are looking foward to collaborate with anyone on WhatsApp bots.
 
--We are accepting new developers members who wish to join us.
+- We are accepting new developers members who wish to join us.
 
--Also don't forget to follow us 
+- Also don't forget to follow us 
 
 ## Official WhatsApp Group
--[Sapphire Inc.](https://chat.whatsapp.com/D1M6zr0tF7v2N30HfEJPdp)
+- [Sapphire Inc.](https://chat.whatsapp.com/D1M6zr0tF7v2N30HfEJPdp)
 
 ## <!-- Typing SVG -->
 <p align="center">
