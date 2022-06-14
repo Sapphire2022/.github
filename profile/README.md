@@ -27,7 +27,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?font=caveat&size=25&color=279C41&lines=Thanks+for+visiting+our+organization...;Don't+forget+to+follow+us....;See+yah"
+        src="https://readme-typing-svg.herokuapp.com?font=caveat&size=25&color=279C41&lines=Thanks+for+visiting+our+org.;Don't+forget+to+follow+us....;See+yah"
             alt="Typing SVG"
 
 </p>
